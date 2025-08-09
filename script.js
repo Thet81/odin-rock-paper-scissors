@@ -139,6 +139,3 @@ function playround (humanchoice,computerchoice) {
 }
 
 
-// gethumanchoice()
-// getComputerChoice();
-// playround(gethumanchoice(),getComputerChoice())
