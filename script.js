@@ -88,11 +88,6 @@ function displayresult () {
 // }
 
 
-// function gethumanchoice () {
-//     let val = prompt('Pick rock paper or scissor: ');
-//     // console.log(val);
-//     return val;
-// }
 
 function playround (humanchoice,computerchoice) {
     let loweredhumanchoice = humanchoice.toLowerCase();
